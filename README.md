@@ -2,7 +2,9 @@
 
 🚀 **DevOps Engineer | Cloud Automation | Kubernetes | AWS | Python**
 
-I build **scalable, secure, and automated cloud-native systems** with a strong focus on CI/CD, Infrastructure as Code, Kubernetes orchestration, and DevSecOps best practices. Passionate about automation, reliability, and learning in public.
+I build **scalable, secure, and automated cloud-native systems** with a strong focus on CI/CD, Infrastructure as Code, Kubernetes orchestration, and DevSecOps best practices. I enjoy automating repetitive work, improving reliability, and learning by building real-world tools.
+
+🌍 **Open to new DevOps / Platform Engineering opportunities (remote preferred) and open-source collaboration.**
 
 ---
 
@@ -14,7 +16,7 @@ I build **scalable, secure, and automated cloud-native systems** with a strong f
 - 🐳 Docker, Kubernetes & KEDA-based auto-scaling  
 - 🔐 DevSecOps: Trivy, SonarQube, vulnerability scanning  
 - 📊 Observability: Fluent-bit, Splunk, Instana, Prometheus  
-- 🧩 Python & Bash automation  
+- 🧩 Python & Bash automation  | Agile | Automation-first mindset 
 - 🌍 Open to remote DevOps opportunities  
 
 ---
@@ -70,17 +72,20 @@ I build **scalable, secure, and automated cloud-native systems** with a strong f
 
 - 🔐 **DevSecOps CI/CD Pipeline**
   - Jenkins + GitHub Actions
-  - Trivy image scanning & SonarQube quality gates
+  - Trivy image scanning & SAST integration
 
 
 ---
 
-## 🤝 Open to Collaboration
+## 🤝 Open to Opportunities & Open-Source Collaboration
 
-- Open-source DevOps tools
-- GitHub Actions development
-- DevSecOps automation
-- Kubernetes best practices
+- 💼 **Open to new DevOps / Platform Engineer roles** (Remote / Global)
+- 🌍 **Interested in contributing to open-source projects** involving:
+  - DevSecOps automation
+  - GitHub Actions & CI/CD tooling
+  - Kubernetes & cloud-native platforms
+  - Infrastructure as Code (Terraform)
+- 🤝 Happy to collaborate, review PRs, or co-build DevOps tools
 
 ---
 
